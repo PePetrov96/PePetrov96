@@ -8,6 +8,8 @@ So far I've collected the following certificates:
 
 <a href="https://softuni.bg/certificates/details/148520/dda11e35">Java Fundamentals Certificate</a>
 
+<a href="https://softuni.bg/certificates/details/161712/9d6ac1d2">Java Advanced Certificate</a>
+
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=PePetrov96&show_icons=true&locale=en" alt="PePetrov96" /></p>
 
