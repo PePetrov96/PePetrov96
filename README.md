@@ -12,7 +12,7 @@ So far I've collected the following certificates:
 
 <a href="https://softuni.bg/certificates/details/168960/cee775d1">Java OOP Certificate</a>
 
-<a href="https://softuni.bg/certificates">MySQL Certificate</a>
+<a href="https://softuni.bg/certificates/details/172087/ccbf3814">MySQL Certificate</a>
 
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=PePetrov96&show_icons=true&locale=en" alt="PePetrov96" /></p>
