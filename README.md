@@ -14,6 +14,10 @@ So far I've collected the following certificates:
 
 <a href="https://softuni.bg/certificates/details/172087/ccbf3814">MySQL Certificate</a>
 
+<a href="https://softuni.bg/certificates/details/176658/60735c94">Algorithms Fundamentals with Java</a>
+
+
+
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=PePetrov96&show_icons=true&locale=en" alt="PePetrov96" /></p>
 
