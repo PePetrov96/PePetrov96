@@ -18,6 +18,7 @@ So far I've collected the following certificates:
 
 <a href="https://softuni.bg/certificates/details/176658/60735c94">Algorithms Fundamentals with Java</a>
 
+<!--
 
 <a href="XXXXX">Algorithms Advanced with Java</a>
 
@@ -34,6 +35,7 @@ So far I've collected the following certificates:
 <a href="XXXXX">Software Engineering And DebOps</a>
 
 ---
+
 Final program certificates:
 
 <a href="XXXXX">Java Web Developer</a>
@@ -42,6 +44,7 @@ Final program certificates:
 
 ---
 
+-->
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=PePetrov96&show_icons=true&locale=en" alt="PePetrov96" /></p>
 
