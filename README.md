@@ -33,14 +33,14 @@ So far I've collected the following certificates:
 
 <a href="XXXXX">Software Engineering And DebOps</a>
 
-<br/>
+---
 Final program certificates:
 
 <a href="XXXXX">Java Web Developer</a>
 
 <a href="XXXXX">Java Full-Stack Developer</a>
 
-<br/>
+---
 
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=PePetrov96&show_icons=true&locale=en" alt="PePetrov96" /></p>
