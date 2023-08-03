@@ -14,7 +14,7 @@ So far I've collected the following certificates:
 
 <a href="https://softuni.bg/certificates/details/172087/ccbf3814">MySQL</a>
 
-<a href="XXXXX">Spring Data</a>
+<a href="https://softuni.bg/certificates/details/180497/274448dc">Spring Data</a>
 
 <a href="https://softuni.bg/certificates/details/176658/60735c94">Algorithms Fundamentals with Java</a>
 
