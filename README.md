@@ -18,9 +18,9 @@ So far I've collected the following certificates:
 
 <a href="https://softuni.bg/certificates/details/176658/60735c94">Algorithms Fundamentals with Java</a>
 
-<!--
+<a href="https://softuni.bg/certificates/details/184512/0f988bff">Algorithms Advanced with Java</a>
 
-<a href="XXXXX">Algorithms Advanced with Java</a>
+<!--
 
 <a href="XXXXX">HTML & CSS</a>
 
