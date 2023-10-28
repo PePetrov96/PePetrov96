@@ -20,9 +20,9 @@ So far I've collected the following certificates:
 
 <a href="https://softuni.bg/certificates/details/184512/0f988bff">Algorithms Advanced with Java</a>
 
-<!--
+<a href="https://softuni.bg/certificates/details/190665/6b7ef87a">HTML & CSS</a>
 
-<a href="XXXXX">HTML & CSS</a>
+<!--
 
 <a href="XXXXX">JS Front-End</a>
 
