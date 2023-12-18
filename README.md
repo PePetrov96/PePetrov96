@@ -22,9 +22,9 @@ So far I've collected the following certificates:
 
 <a href="https://softuni.bg/certificates/details/190665/6b7ef87a">HTML & CSS</a>
 
-<!--
+<a href="https://softuni.bg/certificates/details/199086/9a35a9ae">JS Front-End</a>
 
-<a href="XXXXX">JS Front-End</a>
+<!--
 
 <a href="XXXXX">Spring Fundamentals</a>
 
