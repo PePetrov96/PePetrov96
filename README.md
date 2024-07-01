@@ -24,15 +24,15 @@ So far I've collected the following certificates:
 
 <a href="https://softuni.bg/certificates/details/199086/9a35a9ae">JS Front-End</a>
 
-<!--
+<a href="https://softuni.bg/certificates/details/219276/a9c177e5">Spring Fundamentals</a>
 
-<a href="XXXXX">Spring Fundamentals</a>
+<!--
 
 <a href="XXXXX">Spring Advanced</a>
 
 <a href="XXXXX">Containers And Cloud</a>
 
-<a href="XXXXX">Software Engineering And DebOps</a>
+<a href="XXXXX">Software Engineering And DevOps</a>
 
 ---
 
