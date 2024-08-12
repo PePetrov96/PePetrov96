@@ -26,9 +26,9 @@ So far I've collected the following certificates:
 
 <a href="https://softuni.bg/certificates/details/219276/a9c177e5">Spring Fundamentals</a>
 
-<!--
+<a href="https://softuni.bg/certificates/details/223302/3b97ef87">Spring Advanced</a>
 
-<a href="XXXXX">Spring Advanced</a>
+<!--
 
 <a href="XXXXX">Containers And Cloud</a>
 
