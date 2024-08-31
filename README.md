@@ -1,8 +1,8 @@
 ### Hi there, I'm Peter 👋
 
-I am currently learning Java Web.
+I recently graduated as a Java Web Developer.
 
-So far I've collected the following certificates:
+Throughout my journey I've collected the following certificates:
 
 <a href="https://softuni.bg/certificates/details/142247/02c6afca">Java Basics</a>
 
@@ -48,6 +48,8 @@ Final program certificates:
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=PePetrov96&show_icons=true&locale=en" alt="PePetrov96" /></p>
 
+
+<iframe style="width:100%;height:auto;min-width:600px;min-height:400px;" src="https://star-history.com/embed?secret=Z2hwX1NBUG5PMnM1bnluWXI0WUF6N3FTcWJlOVJFdm9aYTFCMlhKRg==#PePetrov96/EpicByte&PePetrov96/SoftUni_Software_Engineering&Date" frameBorder="0"></iframe>
 
 <!--
 **PePetrov96/PePetrov96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
