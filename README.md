@@ -2,6 +2,10 @@
 
 I recently graduated as a Java Web Developer.
 
+- 👯 I’m looking to begin my professional journey.
+- 💬 Ask me about anything.
+- 📫 How to reach me: pepetrov1996@gmail.com
+
 Throughout my journey I've collected the following certificates:
 
 <a href="https://softuni.bg/certificates/details/142247/02c6afca">Java Basics</a>
@@ -28,42 +32,9 @@ Throughout my journey I've collected the following certificates:
 
 <a href="https://softuni.bg/certificates/details/223302/3b97ef87">Spring Advanced</a>
 
-<!--
 
-<a href="XXXXX">Containers And Cloud</a>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=PePetrov96&show_icons=true&locale=en" alt="PePetrov96" /></p>
 
-<a href="XXXXX">Software Engineering And DevOps</a>
-
----
-
-Final program certificates:
-
-<a href="XXXXX">Java Web Developer</a>
-
-<a href="XXXXX">Java Full-Stack Developer</a>
-
----
-
--->
-
-<!-- <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=PePetrov96&show_icons=true&locale=en" alt="PePetrov96" /></p> -->
-
-<iframe style="width:100%;height:auto;min-width:600px;min-height:400px;" src="https://star-history.com/embed?secret=Z2hwX1NBUG5PMnM1bnluWXI0WUF6N3FTcWJlOVJFdm9aYTFCMlhKRg==#PePetrov96/EpicByte&PePetrov96/SoftUni_Software_Engineering&Date" frameBorder="0"></iframe>
 
 ## Star History
 [![Star History Chart](https://api.star-history.com/svg?repos=PePetrov96/EpicByte,PePetrov96/SoftUni_Software_Engineering&type=Date)](https://star-history.com/#PePetrov96/EpicByte&PePetrov96/SoftUni_Software_Engineering&Date)
-
-<!--
-**PePetrov96/PePetrov96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
