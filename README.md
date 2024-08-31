@@ -32,9 +32,16 @@ Throughout my journey I've collected the following certificates:
 
 <a href="https://softuni.bg/certificates/details/223302/3b97ef87">Spring Advanced</a>
 
+<br>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=PePetrov96&show_icons=true&locale=en" alt="PePetrov96" /></p>
-
-
-## Star History
 [![Star History Chart](https://api.star-history.com/svg?repos=PePetrov96/EpicByte,PePetrov96/SoftUni_Software_Engineering&type=Date)](https://star-history.com/#PePetrov96/EpicByte&PePetrov96/SoftUni_Software_Engineering&Date)
+
+<br>
+
+<!-- <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=PePetrov96&show_icons=true&locale=en" alt="PePetrov96" /></p> -->
+
+![PePetrov96's Stats](https://github-readme-stats.vercel.app/api?username=PePetrov96&theme=cobalt&show_icons=true&hide_border=true&count_private=true)
+
+![PePetrov96's Streak](https://github-readme-streak-stats.herokuapp.com/?user=PePetrov96&theme=cobalt&hide_border=true)
+
+![PePetrov96's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PePetrov96&theme=cobalt&show_icons=true&hide_border=true&layout=compact)
