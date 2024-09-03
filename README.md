@@ -59,6 +59,8 @@ Throughout my journey I've collected the following certificates:
 
 <br>
 
+## Star History
+
 [![Star History Chart](https://api.star-history.com/svg?repos=PePetrov96/EpicByte,PePetrov96/SoftUni_Software_Engineering&type=Date)](https://star-history.com/#PePetrov96/EpicByte&PePetrov96/SoftUni_Software_Engineering&Date)
 
 </details>
