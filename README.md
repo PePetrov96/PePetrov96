@@ -45,6 +45,11 @@ Throughout my journey I've collected the following certificates:
 
 <details>
   <summary>GitHub Stats <img height="12em" src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png?v8" alt="zap" title="zap"/></summary>
+<br>
+
+![](https://komarev.com/ghpvc/?username=PePetrov96)
+
+<br>
 
 ![PePetrov96's Stats](https://github-readme-stats.vercel.app/api?username=PePetrov96&theme=cobalt&show_icons=true&hide_border=true&count_private=true)
 
